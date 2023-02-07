@@ -1,0 +1,7 @@
+[deps]
+Random = "0.3"
+LinearAlgebra = "0.4"
+DataFrames = "0.20"
+
+[compat]
+julia = "1.0"
